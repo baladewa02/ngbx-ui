@@ -1,0 +1,35 @@
+{
+  "name": "ngbx-ui",
+  "version": "1.0.0",
+  "description": "extended angualr2-bootstrap ui componants",
+  "main": "ngbx-ui.ts",
+  "scripts": {
+    "test": "npm run",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baladewa02/ngbx-ui.git"
+  },
+  "keywords": [
+    "ng2-bootstrap",
+    "UI"
+  ],
+  "author": "Baladewa Welathnthri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baladewa02/ngbx-ui/issues"
+  },
+  "homepage": "https://github.com/baladewa02/ngbx-ui#readme",
+  "dependencies": {
+    "@angular/common": "^2.1.2",
+    "@angular/core": "^2.1.2",
+    "@angular/forms": "^2.1.2",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.13",
+    "rxjs": "^5.0.0-beta.12",
+    "zone.js": "^0.6.26"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.9"
+  }
+}
